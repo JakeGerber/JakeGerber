@@ -7,7 +7,6 @@ On my profile I have some different projects that I have worked on from places s
 Currently I'm working on a few different projects, including a *3D cube adaptation* of the game snake.  
 Expect a website showing off all my projects **soon**.
 
-i
 Check me out on ***[LinkedIn](https://www.linkedin.com/in/jake-gerber-a9a299214/)*** and my ***[Itch](https://cosmicsnowman.itch.io/)***.
 
 <!--
