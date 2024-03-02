@@ -1,10 +1,14 @@
 ### Hey! I'm Jake, a Computer Science Student at UC Irvine.
 
-![Game](https://img.itch.zone/aW1nLzYyNTA1MTQucG5n/315x250%23c/yuBq8a.png)
+<!--![Game](https://img.itch.zone/aW1nLzYyNTA1MTQucG5n/315x250%23c/yuBq8a.png)-->
 
-On my profile I have some different projects that I have worked on from places such as **hackathons** and **game jams**. I have interests in web development, game development, and virtual reality development.
+<!--On my profile I have some different projects that I have worked on from places such as **hackathons** and **game jams**. I have interests in web development, game development, and virtual reality development.-->
 
-Check me out on ***[LinkedIn](https://www.linkedin.com/in/jake-gerber-a9a299214/)*** and my ***[Itch](https://cosmicsnowman.itch.io/)***.
+Hi! I'm a third year Computer Science student at UCI with a passion for full-stack development.
+
+Check me out on ***[LinkedIn](https://www.linkedin.com/in/jake-gerber-a9a299214/)***. 
+
+<!--and my ***[Itch](https://cosmicsnowman.itch.io/)***.-->
 
 <!--
 **JakeGerber/JakeGerber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
