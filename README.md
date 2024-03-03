@@ -6,7 +6,7 @@
 
 Hi! I'm a third year Computer Science student at UCI with a passion for full-stack development.
 
-Check me out on ***[LinkedIn](https://www.linkedin.com/in/jake-gerber-a9a299214/)***. 
+Check me out on ***[LinkedIn](https://www.linkedin.com/in/jake-gerber-a9a299214/)*** and ***[Devpost](https://devpost.com/JakeGerber)***. 
 
 <!--and my ***[Itch](https://cosmicsnowman.itch.io/)***.-->
 
