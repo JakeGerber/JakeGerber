@@ -1,10 +1,8 @@
-### Hey! I'm Jake, a Computer Science Student at UC Irvine.
+### Hey! I'm Jake, a Software Developer.
 
 <!--![Game](https://img.itch.zone/aW1nLzYyNTA1MTQucG5n/315x250%23c/yuBq8a.png)-->
 
 <!--On my profile I have some different projects that I have worked on from places such as **hackathons** and **game jams**. I have interests in web development, game development, and virtual reality development.-->
-
-Hi! I'm a fourth year Computer Science student at UCI with a passion for software development.
 
 Check me out on ***[LinkedIn](https://www.linkedin.com/in/jake-gerber-a9a299214/)*** and ***[Devpost](https://devpost.com/JakeGerber)***. 
 
